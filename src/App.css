@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.main-layout {
+  background-color: rgb(238, 248, 238);
+  width: auto;
+  height: 100vh;
+  overflow-y: scroll;
+}
+.cart-back {
+  height: 64px;
+  width: auto;
+  overflow: hidden;
+}
